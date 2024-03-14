@@ -73,6 +73,7 @@ body{
     border: 0px;
     border-radius: 15px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .login .login-container .login-form .other{
@@ -96,6 +97,7 @@ body{
     border: 1px solid rgba(240, 237, 255, 1);
     border-radius: 25px;
     padding: 10px ;
+    cursor: pointer;
 }
 
 .login .login-container .login-form .other-login .box span{
